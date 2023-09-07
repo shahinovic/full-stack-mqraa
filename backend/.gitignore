@@ -1,0 +1,35 @@
+# Node.js & NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+*.zip
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and build files from the development server
+.cache/
+public/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Editor configuration
+.editorconfig
+
+# Miscellaneous
+*.swp
+
